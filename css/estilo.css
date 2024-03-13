@@ -1,0 +1,55 @@
+.contenedor{
+    background-color: cornflowerblue;
+    padding: 30px;
+    height: 900px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja1{
+    background-color: chartreuse;
+    margin: 30px;
+    width: 420px;
+    justify-content: center;  
+}
+.caja2{
+    background-color: chartreuse;
+    display: flex;
+    margin: 30px;
+    width: 420px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja3{
+    background-color: chartreuse;
+    margin: 30px;
+    width: 420px;
+    justify-content: center;
+}
+.cont{ 
+    padding: 30px;
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    justify-content: center;
+}
+.caja11{
+    background-color: chocolate;
+    margin: 40px;
+    width: 110px;
+    height: 250px;
+
+}
+.caja22{
+    background-color: blueviolet;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+
+}
+.caja33{
+    background-color: darkorange;
+    width: 300px;
+    height: 150px;
+}
